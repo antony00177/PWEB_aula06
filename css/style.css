@@ -1,0 +1,14 @@
+ol.romano {
+
+   list-style: upper-roman;
+}
+
+ul.quadrado {
+list-style-type: square;
+}
+h1{
+    color: brown;
+}
+.titulo1 {
+    color: blue;
+}
